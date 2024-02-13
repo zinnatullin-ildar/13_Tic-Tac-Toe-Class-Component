@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.game {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 160px auto;
+    text-align: center;
+}
+
+.restartButton {
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+    cursor: pointer;
+}
